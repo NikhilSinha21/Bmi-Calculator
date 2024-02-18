@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="text">#FFFFFFFF</color>
+    <color name="card">#949494</color>
+    <color name="background">#504F4F</color>
+
+    <color name="underweight">#FF0000</color>
+    <color name="overweight">#FE0000</color>
+    <color name="normal">#62F302</color>
+
+
+</resources>
